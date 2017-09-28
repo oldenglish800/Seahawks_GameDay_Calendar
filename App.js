@@ -30,7 +30,7 @@ class App extends Component {
         }
       ],
       events: [{
-        title: "Event Test",
+        title: "Regular Season Game",
         date: 9/17/2017,
         description: "This a test"
       }
