@@ -8,7 +8,7 @@ table {
 }
 
 td {
-  border: 1px solid green;
+  border: 1px solid greenyellow;
   height: 100px;
   width: 120px;
   text-align: right;
@@ -16,7 +16,7 @@ td {
 }
 
 td:hover {
-  background-color:lightgray
+  background-color:greenyellow
 }
 
 th {
@@ -34,7 +34,7 @@ th {
 }
 
 button {
-  background-color: green;
+  background-color: greenyellow;
   border: none;
   color: white;
   padding: 15px 32px;
