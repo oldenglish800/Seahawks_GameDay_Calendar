@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid green;
+  height: 100px;
+  width: 120px;
+  text-align: right;
+  padding: 5px;
+}
+
+td:hover {
+  background-color:lightgray
+}
+
+th {
+  border: 1px solid black;
+  text-align: center;
+}
+
+#monthtitle {
+  background-color: darkblue;
+  color: white;
+}
+
+#button {
+  vertical-align: center;
+}
+
+button {
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 28px;
+}
